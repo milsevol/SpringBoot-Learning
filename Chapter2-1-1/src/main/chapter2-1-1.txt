@@ -1,0 +1,6 @@
+博客地址：http://blog.didispace.com/springbootproperties/
+
+java -jar xxx.jar --server.port=8888，通过使用–server.port属性来设置xxx.jar应用的端口为8888。
+在该工程，可以package一下，然后进入Chapter2-1-1\target目录运行：java -jar Chapter2-1-1-1.0.0.jar --server.port=8888
+接着即可访问：
+http://127.0.0.1:8888/hello

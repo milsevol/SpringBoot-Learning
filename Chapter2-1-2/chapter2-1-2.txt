@@ -1,0 +1,5 @@
+博客文章：
+[Spring Boot 2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent)
+
+注解@Slf4j(https://blog.csdn.net/qq_26344609/article/details/78905845)
+
